@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaGoelGrofers
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Warehouse Management
+- 🌱 I’m a part of the Warehouse Team at BlinkIt!
 - 📫 How to reach me @itsAdityaGoel on Twitter
 
 <!---
